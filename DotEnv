@@ -1,0 +1,4 @@
+MONGODB_URI=mongodb://localhost/nodeJWT
+PORT=3000
+NODE_ENV=production
+SECRET=]GE^Z3x5l0e8m{;-
